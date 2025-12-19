@@ -17,8 +17,9 @@ You can also use [this demo](https://webauthn.me/) to test this app, or use [its
 * FIDO2
   - CTAP
     - [Client to Authenticator Protocol (CTAP 2.0), Proposed Standard, January 30, 2019](https://fidoalliance.org/specs/fido-v2.0-ps-20190130/fido-client-to-authenticator-protocol-v2.0-ps-20190130.html) :white_check_mark:
-    - [Client to Authenticator Protocol (CTAP 2.1), Proposed Standard, June 21, 2022](https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-errata-20220621.html) :new:
-    - [Client to Authenticator Protocol (CTAP 2.2), Review Draft, October 03, 2024](https://fidoalliance.org/specs/fido-v2.2-rd-20241003/fido-client-to-authenticator-protocol-v2.2-rd-20241003.html) :construction_worker:
+    - [Client to Authenticator Protocol (CTAP 2.1), Proposed Standard, June 21, 2022](https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-errata-20220621.html)  :white_check_mark:
+    - [Client to Authenticator Protocol (CTAP 2.2), Proposed Standard, July 14, 2025](https://fidoalliance.org/specs/fido-v2.2-ps-20250714/fido-client-to-authenticator-protocol-v2.2-ps-20250714.html) :new:
+    - [Client to Authenticator Protocol (CTAP 2.3), Review Draft, October 23, 2025](https://fidoalliance.org/specs/fido-v2.3-rd-20251023/fido-client-to-authenticator-protocol-v2.3-rd-20251023.html) :construction_worker:
   - WebAuthn
     - [Web Authentication: An API for accessing Public Key Credentials Level 2, W3C Recommendation, 8 April 2021](https://www.w3.org/TR/2021/REC-webauthn-2-20210408) :new:
     - [Web Authentication: An API for accessing Public Key Credentials Level 3, W3C Working Draft, 27 January 2025](https://www.w3.org/TR/2025/WD-webauthn-3-20250127/) :construction_worker:
